@@ -1,0 +1,14 @@
+[ parameters ]
+title = "Example Report"
+author = "Zach Barrett"
+authorID = "22160418"
+courseName = "Example Course"
+courseCode = "EXPL101"
+
+[ document ]
+# Add documents here, will be written in the order you place them.
+subfiles = [
+    "file1.typ",
+    "file2.typ",
+    "file3.typ",
+]
